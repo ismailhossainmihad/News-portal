@@ -107,10 +107,6 @@ cd News-portal
 2. Browse through the headlines or filter as supported.
 3. Click on an article for the full content and details.
 
-*(Feel free to add screenshots or GIFs here if you’d like to showcase the interface.)*
-
----
-
 ### Deployment
 
 * **Frontend:** Hosted via **Vercel** — see [Live Demo](https://news-portal-five-iota.vercel.app/news)
