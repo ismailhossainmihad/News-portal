@@ -1,6 +1,4 @@
-Here’s a polished **README** template for the **News-portal** project (GitHub repo: *ismailhossainmihad/News-portal*, deployed at **news-portal-five-iota.vercel.app**):
-
----
+Loading News can take bit longer time in live demon so please give time to load.
 
 ## News-portal
 
